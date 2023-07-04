@@ -16,4 +16,4 @@ If you would like to run this code, you will need to:
 ### License
 [License](LICENSE)
 
-<img src="BusTracker.png"`>
+<img src="BusTracker.png">
